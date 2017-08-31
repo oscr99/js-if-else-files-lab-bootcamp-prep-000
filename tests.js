@@ -14,4 +14,4 @@ if (index.height === 70) {
 } else {
     console.log("Expected: 70, Received: "+index.height)
 }
-console.log(index.height) +var
+console.log(index.height)
